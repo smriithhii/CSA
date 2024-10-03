@@ -1,3 +1,3 @@
 # CSA - DPL
 CyberSecurity analytics and visualization project
-DPL (Data Premier League) utilizes various machine learning techniques, including supervised learning for classification and regression, unsupervised learning through clustering (KMeans, DBSCAN), and data preprocessing with scaling techniques to predict the winner of the 2024 Franchise Cricket Championship. By analyzing team and player statistics, DPL forecasts championship outcomes, contributing to the world of sports analytics. ​
+DPL (Data Premier League) predicts the upcoming IPL champion using supervised learning, classification, regression, and clustering techniques like KMeans and DBSCAN. By analyzing team and player performance data, DPL forecasts the most likely winner. This project applies advanced machine learning methods to tackle the challenge of predicting sports outcomes.
